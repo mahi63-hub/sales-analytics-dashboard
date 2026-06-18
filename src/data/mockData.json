@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "date": "2026-01-01",
+    "category": "Electronics",
+    "region": "North",
+    "sales": 120,
+    "profit": 35
+  },
+  {
+    "id": 2,
+    "date": "2026-01-02",
+    "category": "Books",
+    "region": "South",
+    "sales": 80,
+    "profit": 20
+  }
+]
